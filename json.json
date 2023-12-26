@@ -1,0 +1,12 @@
+{
+    "name": "raju",
+    "score": 12.5,
+    "isAdmin": false,
+    "license": null,
+    "array": ["dosa","gym","code"],
+    "myobj": {
+        "name": "banc**d",
+        "marks": 55,
+        "itemlist": ["food","wine","sutta",{"toy": true}]
+    }
+}
